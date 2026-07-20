@@ -1,7 +1,6 @@
 # Android App Course Tasks
 
 This repository contains all the practice tasks and assignments I complete during my Android App Development course.
-Each folder represents a separate task or project that focuses on different Android development concepts and features.
 
 ## Technologies
 
