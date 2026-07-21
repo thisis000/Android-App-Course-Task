@@ -2,13 +2,6 @@
 
 This repository contains all the practice tasks and assignments I complete during my Android App Development course.
 
-## Technologies
-
-- Java
-- Android Studio
-- XML
-- Android SDK etc..
-
 ## Purpose
 
 - Practice Android development
