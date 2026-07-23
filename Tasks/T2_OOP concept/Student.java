@@ -1,8 +1,8 @@
-class Student extends Department {
+class Student {
 
-    String name;
-    int id;
-    double cg;
+    private String name;
+    private int id;
+    private double cg;
 
     public void setName(String name) {
         this.name = name;
