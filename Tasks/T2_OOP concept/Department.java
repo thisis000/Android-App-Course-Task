@@ -1,11 +1,26 @@
-  class Department {
-    String dpt;
+class Department extends Student {
+    private String department;
 
-    public void setDpt(String dpt) {
-        this.dpt = dpt;
+    public void setDpt(String department) {
+        this.department = department;
     }
 
     public String getDpt() {
-        return dpt;
+        return department;
+    }
+
+    @Override
+    public void setName(String name) {
+        super.setName(name);
+    }
+
+    @Override
+    public void setId(int id) {
+        super.setId(id);
+    }
+
+    @Override
+    public void setCg(double cg) {
+        super.setCg(cg);
     }
 }
